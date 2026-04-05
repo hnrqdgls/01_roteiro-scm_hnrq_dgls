@@ -16,6 +16,12 @@ body {
     background-color: #f0f4f8;
 }
 
+h1 {
+    color: #2ecc71;
+    font-size: 3rem;
+    text-align: left;
+}
+
 /* ========== NAVEGAÇÃO ========== */
 .navbar {
     display: flex;
